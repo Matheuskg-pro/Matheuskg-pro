@@ -6,36 +6,37 @@ Je suis un développeur Full Stack passionné par la création de logiciels inno
 
 ## Compétences techniques 💻
 
-- **Langages de programmation :** JavaScript, Python, HTML, CSS, SQL
-- **Frameworks et bibliothèques :** React.js, Node.js, Express.js, Flask, Django
-- **Bases de données :** MongoDB, PostgreSQL, MySQL
-- **Outils de développement :** Git, Docker, Webpack, Babel
-- **Autres :** RESTful APIs, GraphQL, JWT Authentication
+- **Langages de programmation :** Python, HTML, CSS, JavaScript, Typescript, SQL
+- **Frameworks et bibliothèques :** Next.js, React.js, Node.js, Django
+- **Bases de données :** PostgreSQL, MySQL, Firebase, Supabase
+- **Outils de développement :** Git, Docker, Webpack
+- **Autres :** RESTful APIs
 
 ## Projets récents 🚀
 
 Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
 
-1. **E-commerce Platform**
-   - Une plateforme e-commerce complète permettant aux utilisateurs de parcourir et d'acheter une variété de produits, avec un système de gestion des commandes et des paiements intégré.
-   - Technologies utilisées : React.js, Node.js, MongoDB, Stripe API
+1. **Gaming Explorer**
+   - Une plateforme de recherche je jeux vidéos via l'api RAWG.
+   - Technologies utilisées : Next.js, Node.js, Firebase
+   - Lien : [gaming explorer](https://www.gamingexplorer.fr/)
+  
+2. **Mon Portfolio**
+   - Dans le cadre de ma formation (BTS SIO SLAM) j'ai du réaliser moi même mon portefeuille de compétences.
+   - Technologies utilisées : Next.js, Tailwind.css, autres frameworks..
 
-2. **Gestionnaire de tâches**
-   - Une application de gestion des tâches permettant aux utilisateurs de créer, modifier et supprimer des tâches, ainsi que de définir des rappels.
-   - Technologies utilisées : React.js, Express.js, PostgreSQL
+Pour plus de détails sur ces projets et d'autres, consultez mon [portefeuille](matheuskopsguedes.com) complet.
 
-3. **Blog personnel**
-   - Un blog personnel où je partage mes réflexions, mes découvertes et mes tutoriels sur divers sujets liés au développement web et à la programmation.
-   - Technologies utilisées : Gatsby.js, Markdown, Netlify CMS
+## Projets en cours et futurs
 
-Pour plus de détails sur ces projets et d'autres, consultez mon [portefeuille](lien_vers_votre_portefeuille) complet.
+_ajouter les projets_
 
 ## Contact 📬
 
 Si vous souhaitez discuter de collaborations potentielles, de projets ou simplement échanger des idées, n'hésitez pas à me contacter :
 
-- Adresse e-mail : [votre@email.com](mailto:votre@email.com)
-- Profil LinkedIn : [votre_profil_linkedin](lien_vers_votre_profil_linkedin)
+- Adresse e-mail : [matheuskg.pro@gmail.com](mailto:matheuskg.pro@gmail.com)
+- Profil LinkedIn : [matheus-kops-guedes](https://www.linkedin.com/in/matheus-kops-guedes-4293b7213/)
 
 Je suis ouvert aux opportunités intéressantes et toujours ravi de rencontrer de nouveaux collègues et collaborateurs.
 
